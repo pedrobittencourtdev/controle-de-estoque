@@ -79,8 +79,13 @@ Sistema de gerenciamento de estoque desenvolvido em C puro, construído do zero 
 ## 🛠️ Como compilar e executar
 
 **Pré-requisito:** GCC instalado.
-
 ```bash
+# Clonar o repositório
+git clone https://github.com/pedrobittencourtdev/controle-de-estoque
+
+# Entrar na pasta
+cd controle-de-estoque
+
 # Compilar
 gcc -o estoque estoque.c
 
